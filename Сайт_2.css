@@ -1,0 +1,27 @@
+body {
+	background-image:linear-gradient(to right, #82b0d7, #82d99d, #eef233);
+}
+
+h1 {
+	font-family: "Times New Roman", monospace;
+	color: #2d3a6e;
+	text-align: center;
+}
+
+p {
+	font-family: "Times New Roman", monospace;
+	color: #2d3a6e;
+	text-align: left: 5%; width: 95%;
+}
+
+h3 {
+	font-family: "Times New Roman", monospace;
+	color: #2d3a6e;
+	text-align: center;
+}
+
+h2 {
+	font-family: "Times New Roman", monospace;
+	color: #2d3a6e;
+	text-align: center;
+}
